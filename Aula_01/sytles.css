@@ -1,0 +1,74 @@
+body {
+    font-family: sans-serif;
+    background-image: url("/images/fundo.pnj.png");
+    background-attachment: fixed;
+}
+h1{
+    background-color: rgba(247, 218, 201, 1);
+    color: rgb(100, 79, 70);
+    text-align: center;
+    font-style: italic;
+
+}
+h2{
+    text-align: normal;
+    color: rgb(100, 79, 70);
+    text-decoration:  ;
+}
+h4{
+    text-align: normal;
+    color: rgb(100, 79, 70);
+
+    }
+p{
+    text-align: justify;
+    font-size: : 14px;
+    line-height: 23px
+}
+li{
+    text-align: justify;
+    font-size: : 14px;
+    line-height: px
+}
+ul{
+    text-align: justify;
+    font-size: : 14px;
+    line-height: 23px
+}
+#ler{
+    position: relative;
+	top: 50px;
+	left: 100px;
+
+}
+#cozinhar{
+    position: relative;
+    top: -200px;
+    left: 600px;
+
+}
+#ioga{
+    position: relative;
+	top: -465px;
+	left: 1100px;
+
+}
+#video {
+    position: relative;
+	top: -400px;
+}
+#audio {
+    position: relative;
+	top: -400px;
+}
+.voltar{
+    position: relative;
+    top: -50px;
+    left: 10px;
+}
+.contato{
+    position: relative;
+    top: 40px;
+    right: 60px;
+    line-height: 100px
+}

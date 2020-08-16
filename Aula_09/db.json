@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Andrew",
+      "location": "USA"
+    },
+    {
+      "id": 2,
+      "name": "Julio",
+      "location": "Canadá"
+    },
+    {
+      "id": "3",
+      "name": "Rafael",
+      "location": "Brasil"
+    },
+    {
+      "id": "4",
+      "name": "gagaga",
+      "location": "gagaga"
+    },
+    {
+      "id": "5",
+      "name": "agagadu",
+      "location": "uveneg"
+    },
+    {
+      "id": "6",
+      "name": "gsbhfy",
+      "location": "hagdfd"
+    },
+    {
+      "id": "7",
+      "name": "nati",
+      "location": "brasil"
+    },
+    {
+      "id": "8",
+      "name": "maria",
+      "location": "esoanha"
+    }
+  ]
+}

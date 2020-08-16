@@ -1,0 +1,34 @@
+
+.container{    
+width: 1200px;
+height: 700px;
+border: brown solid 2px;
+display: flex; 
+ 
+}
+
+.item{
+background-color: aqua;
+border: black solid 1px;      
+}
+
+.itemA{
+width: 25%;
+height: 120px;
+/* order: 1;
+flex-grow: 1;
+*/
+
+}
+.itemB{
+width: 50%;
+height: 110px;
+/*align-self: flex-end;*/
+
+
+}
+.itemC{
+width: 25%;
+height: 100px; 
+
+}

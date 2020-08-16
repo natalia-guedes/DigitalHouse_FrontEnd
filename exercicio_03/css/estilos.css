@@ -1,0 +1,53 @@
+@media screen {
+    .central{
+        width: 1200px;
+        height: 300px;
+        border: solid 1px rgb(78, 42, 161); 
+        display: flex;
+    }
+}
+
+.caixa {
+    border: solid 1px #666; 
+    /*padding: 5px 10px8;
+    margin: 40px;*/
+}
+    
+.area-visivel span {
+    color: #666;
+    display: none;
+}
+    
+/* max-width  */
+@media screen and (orientation:landscape) {
+    .um {
+        width: 20.83%;
+        background: #F9C;
+    }/*
+    span.lt600 {
+        display: inline-block;
+    }*/
+}
+    
+/* min-width */
+@media screen and (orientation:landscape) {
+    .dois {
+        background: #F90;
+        width: 66.67%;
+    }/*
+    span.gt900 {
+        display: inline-block;
+    }*/
+}
+    
+/* min-width & max-width */
+@media screen and (orientation:landscape) {
+    .tres {
+        background: #9CF;
+        width: 8.33%;
+    }/*
+    span.bt600-900 {
+        display: inline-block;
+    }*/
+}
+    

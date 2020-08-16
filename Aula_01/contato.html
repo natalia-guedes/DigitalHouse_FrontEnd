@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt- BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="sytles.css" rel="stylesheet">
+    <link href="index.html">
+    <link href="hobbies.html">
+    <title>Document</title>
+</head>
+<body>
+    <h1> Formulário de contato</h1>
+    <form action="script.php" method="post">
+        <label for="name">  Nome e sobrenome: </label>
+        <br>
+        <input id="name" type="text" name="usuario" value="" required/>
+        <br> <br>
+        <label for="email">  Email: </label>
+        <br>
+        <input id= "email" type=”email” placeholder=”user@email.com” required/>
+        <br><br>
+        <label for="assunto">  Assunto: </label>
+        <br>
+        <select id="assunto" name="Assunto da mensagem">
+            <option value="Contato" >Contato</option>
+            <option value="Duvidas">Dúvidas</option>
+            <option value="Outros">Outros</option>
+        </select>
+        <br><br>
+        <label>Gênero: </label>
+        <br>
+        <input type="checkbox" name="hobbies" value="Surf">
+        <label>Passatempos: </label>
+        <br>
+        <input type="checkbox" name="hobbies" value="Surf">Surf
+        <br>
+        <input type="checkbox" name="hobbies" value="Cozinhar">Cozinhar
+        <br>
+        <input type="checkbox" name="hobbies" value="Dançar">Dançar
+        <br>
+        <input type="checkbox" name="hobbies" value="Ler">Ler
+        <br>
+        <input type="checkbox" name="hobbies" value="Correr">Correr
+        <br>
+        <input type="checkbox" name="hobbies" value="Outros">Outros
+        <br>
+
+    </form>
+
+    
+</body>
+</html>

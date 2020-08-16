@@ -1,0 +1,33 @@
+p{
+    text-align: justify;
+}
+body {
+    background-image:url(../images/double-bubble-outline.png) ;
+}
+.ampliar{
+    font-size: 20px;
+    font-weight: bolder;
+    text-align: center;
+    background-color: rgb(155, 147, 147);
+    opacity: 0.4;
+    width: 350px;
+    height: 40px;
+    position: relative;
+    right: 0px;
+    top: -150px;
+}
+.ampliar2{
+    font-size: 20px;
+    font-weight: bolder;
+    text-align: center;
+    width: 350px;
+    height: 40px;
+    position: relative;
+    right: 0px;
+    top: -190px;
+}
+.alinhamento{
+    top: -200px;
+    right: 30px;
+    background-color: green;
+}
